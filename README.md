@@ -2,6 +2,8 @@
 
 Routes, Trains and other files compatible with BVE4 and OpenBVE are located on a private git repository. This repository serves purely as a directory clone.
 
+It is recommended that the files be downloaded and opened in Notepad if needing to view file structure.
+
 ### Disclaimer
 This and other associated repositories (set to private) exist as a personal archive and technical reference for content that may no longer be readily available from original sources. It's purpose is to document and preserve openBVE materials for historical interest and research within the simulation community.
 
